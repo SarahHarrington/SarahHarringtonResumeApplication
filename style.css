@@ -39,7 +39,6 @@
   }
   body {
     padding-top: 80px;
-    background-color: #211930;
   }
   h1 {
     font-family: Roboto;
@@ -49,6 +48,7 @@
   #belownav {
     padding-left: 10px;
     padding-right: 10px;
+    background-color: #211930
   }
   .card-title {
     font-family: Roboto;
